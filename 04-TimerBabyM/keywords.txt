@@ -1,0 +1,4 @@
+TimerBabyM	KEYWORD1
+tCallbackECG	KEYWORD2
+tCallbackACCEL	KEYWORD2
+usrInit	KEYWORD2
